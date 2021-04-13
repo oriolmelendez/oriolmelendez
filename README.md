@@ -1,6 +1,6 @@
 # Benviguts - Bienvenidos 👋
 
-###  :computer: Sóc l'Oriol Web Developer i SysAdmin - Soy Web Developer y SysAdmin
+###  :computer: Sóc l'Oriol, Web Developer i SysAdmin - Soy Oriol, Web Developer y SysAdmin
 
 <!--
 **oriolmelendez/oriolmelendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
