@@ -1,6 +1,8 @@
 # Benviguts - Bienvenidos 👋
 
-###  :computer: Sóc l'Oriol, Web Developer i SysAdmin - Soy Oriol, Web Developer y SysAdmin
+###  :computer: Web Developer & SysAdmin
+###  :page_with_curl: www.linkedin.com/in/oriol-meléndez-bonet
+###  :envelope: oriolmelendez@gmail.com
 
 <!--
 **oriolmelendez/oriolmelendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
