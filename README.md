@@ -1,6 +1,6 @@
-## Benviguts 👋
+# Benviguts - Bienvenidos 👋
 
-### Sóc l'Oriol desenvolupador web i administrador de sistemes.
+### Sóc l'Oriol Web Developer i SysAdmin.
 
 <!--
 **oriolmelendez/oriolmelendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
