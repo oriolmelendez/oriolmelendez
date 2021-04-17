@@ -1,6 +1,6 @@
-# Benviguts - Bienvenidos 👋
+# Benviguts - Bienvenidos - Welcome 👋
 
-###  :computer: Web Developer & SysAdmin
+###  :computer: I'm Web Developer & SysAdmin
 ###  :page_with_curl: www.linkedin.com/in/oriol-meléndez-bonet
 ###  :envelope: oriolmelendez@gmail.com
 
